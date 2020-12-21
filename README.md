@@ -1,2 +1,2 @@
-# banana-speak
- A vanillaJS web app which translates english to banana language
+# speak-minionese
+ A vanillaJS web app which translates english to minionese language
